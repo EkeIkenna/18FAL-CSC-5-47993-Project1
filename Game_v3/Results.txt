@@ -1,0 +1,5 @@
+Results of Today's matches of BlackJack: 
+Games Played: 5
+Wins: 1
+Loses: 4
+Win percentage of 0.00
